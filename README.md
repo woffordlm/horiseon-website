@@ -8,7 +8,8 @@ A website that offers search engine optimization, online reputation management, 
 * HTML
 * CSS
 
-## https://woffordlm.github.io/horiseon-website/
+## Website
+https://woffordlm.github.io/horiseon-website/
 
 ## Contribution
 Made by Luke Wofford
